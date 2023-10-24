@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RobinMehra1
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning next js
-- 💞️ I’m looking to collaborate on job
+- 💞️ I’m looking for a project or a  job
 - 📫 How to reach me therobcode@gmail.com
 
 <!---
